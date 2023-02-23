@@ -2,8 +2,8 @@
 ## Terminal YouTube  downloader(beta) 
 
 ```
-$ git https://github.com/W1nterFr3ak/termuxYtdownloader.git
-$ cd termuxYtdownloader 
+$ git clone https://github.com/Abominate34/YtTermux
+$ cd YtTermux
 $ pip install -r requirements.txt
 $ python termuxYtd.py
 ```
